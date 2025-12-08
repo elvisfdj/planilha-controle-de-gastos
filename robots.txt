@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elvisfdj.github.io/planilha-controle-de-gastos/sitemap.xml
+Sitemap: https://planilha-controle-de-gastos.online/sitemap.xml
